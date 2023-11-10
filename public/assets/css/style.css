@@ -1,0 +1,50 @@
+.nav-item > a:hover,
+.nav-item.active > a,
+.nav-item.active > a > span
+{
+  color: #ef1919;
+  text-decoration: none;
+}
+
+.nav-text {
+  font-size: 20px;
+}
+
+.nav-brand-text {
+  font-size: 24px;
+  color: #c2aeae;
+}
+
+.text-blue {
+  color: #6363cd;
+}
+
+.header-medium {
+  font-size: 24px;
+}
+
+.open-title {
+  color: #390231;
+}
+
+.open-day {
+  color: #7d6ee4;
+}
+.open-time {
+  color: #c2aeae;
+}
+
+.telephone {
+  font-size: 30px;
+  color: #dc7979;
+}
+.address {
+  font-size: 28px;
+  color: #d40e0e;
+}
+
+.text-general {
+  color: #af7171f0;
+}
+
+/*Calendar*/
